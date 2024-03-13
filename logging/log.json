@@ -1,0 +1,484 @@
+2024-03-13 10:14:05 - Warning: Motion detected!
+2024-03-13 10:14:05 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:05 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:14:05 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:14:05 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:14:05 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:06 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:06 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:14:06 - Tracker initialized for bounding box: (4, 2, 436, 267)
+2024-03-13 10:14:07 - Tracker initialized for bounding box: (3, 2, 468, 266)
+2024-03-13 10:14:08 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:09 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:09 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:09 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:14:09 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:09 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:14:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:10 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:14:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:10 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:14:10 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:14:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:10 - Tracker initialized for bounding box: (4, 2, 470, 266)
+2024-03-13 10:14:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:10 - Tracker initialized for bounding box: (4, 1, 470, 267)
+2024-03-13 10:14:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:11 - Tracker initialized for bounding box: (6, 1, 471, 269)
+2024-03-13 10:14:11 - Tracker initialized for bounding box: (15, 2, 437, 265)
+2024-03-13 10:14:11 - Tracker initialized for bounding box: (8, 3, 439, 265)
+2024-03-13 10:14:11 - Tracker initialized for bounding box: (8, 3, 439, 265)
+2024-03-13 10:14:12 - Tracker initialized for bounding box: (193, 0, 140, 40)
+2024-03-13 10:14:12 - Tracker initialized for bounding box: (9, 3, 451, 265)
+2024-03-13 10:14:12 - Tracker initialized for bounding box: (193, 0, 140, 40)
+2024-03-13 10:14:12 - Tracker initialized for bounding box: (9, 3, 449, 265)
+2024-03-13 10:14:12 - Tracker initialized for bounding box: (182, 1, 147, 39)
+2024-03-13 10:14:13 - Tracker initialized for bounding box: (229, 1, 95, 69)
+2024-03-13 10:14:14 - Tracker initialized for bounding box: (214, 2, 105, 67)
+2024-03-13 10:14:15 - Tracker initialized for bounding box: (220, 3, 82, 66)
+2024-03-13 10:14:19 - Tracker initialized for bounding box: (131, 224, 76, 45)
+2024-03-13 10:14:20 - Tracker initialized for bounding box: (9, 0, 404, 266)
+2024-03-13 10:14:21 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:14:21 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:22 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:23 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:23 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:24 - Tracker initialized for bounding box: (14, 0, 418, 269)
+2024-03-13 10:14:24 - Tracker initialized for bounding box: (22, 0, 392, 267)
+2024-03-13 10:14:25 - Tracker initialized for bounding box: (5, 0, 472, 269)
+2024-03-13 10:14:25 - Tracker initialized for bounding box: (10, 0, 465, 269)
+2024-03-13 10:14:26 - Warning: Tracker for object (7, 0, 472, 269) removed due to tracking failure
+2024-03-13 10:14:26 - Tracker initialized for bounding box: (39, 0, 344, 267)
+2024-03-13 10:14:27 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:27 - Tracker initialized for bounding box: (5, 1, 468, 267)
+2024-03-13 10:14:27 - Tracker initialized for bounding box: (6, 0, 465, 268)
+2024-03-13 10:14:28 - Tracker initialized for bounding box: (7, 1, 468, 268)
+2024-03-13 10:14:29 - Tracker initialized for bounding box: (0, 0, 465, 267)
+2024-03-13 10:14:29 - Tracker initialized for bounding box: (0, 0, 461, 267)
+2024-03-13 10:14:30 - Tracker initialized for bounding box: (-1, 0, 468, 266)
+2024-03-13 10:14:31 - Tracker initialized for bounding box: (2, 1, 462, 266)
+2024-03-13 10:14:32 - Tracker initialized for bounding box: (1, 2, 467, 263)
+2024-03-13 10:14:33 - Tracker initialized for bounding box: (2, 3, 462, 262)
+2024-03-13 10:14:33 - Tracker initialized for bounding box: (2, 6, 463, 259)
+2024-03-13 10:14:34 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:35 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:36 - Tracker initialized for bounding box: (-2, 3, 463, 262)
+2024-03-13 10:14:37 - Tracker initialized for bounding box: (-1, 3, 461, 264)
+2024-03-13 10:14:38 - Tracker initialized for bounding box: (1, 6, 457, 260)
+2024-03-13 10:14:39 - Tracker initialized for bounding box: (1, 4, 452, 264)
+2024-03-13 10:14:40 - Tracker initialized for bounding box: (2, 7, 453, 261)
+2024-03-13 10:14:40 - Tracker initialized for bounding box: (3, 3, 459, 265)
+2024-03-13 10:14:41 - Tracker initialized for bounding box: (2, 3, 457, 265)
+2024-03-13 10:14:42 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:43 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:44 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:45 - Tracker initialized for bounding box: (2, 1, 471, 268)
+2024-03-13 10:14:46 - Tracker initialized for bounding box: (2, 1, 469, 268)
+2024-03-13 10:14:47 - Tracker initialized for bounding box: (3, 1, 468, 268)
+2024-03-13 10:14:48 - Tracker initialized for bounding box: (2, 1, 470, 268)
+2024-03-13 10:14:48 - Tracker initialized for bounding box: (2, 1, 472, 268)
+2024-03-13 10:14:49 - Tracker initialized for bounding box: (2, 1, 472, 268)
+2024-03-13 10:14:50 - Tracker initialized for bounding box: (3, 1, 470, 268)
+2024-03-13 10:14:51 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:52 - Warning: Tracker for object (7, 0, 472, 268) removed due to tracking failure
+2024-03-13 10:14:52 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:52 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:53 - Warning: Tracker for object (1, 0, 472, 268) removed due to tracking failure
+2024-03-13 10:14:53 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:54 - Warning: Tracker for object (0, 0, 471, 268) removed due to tracking failure
+2024-03-13 10:14:54 - Tracker initialized for bounding box: (2, 0, 471, 269)
+2024-03-13 10:14:55 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:56 - Tracker initialized for bounding box: (3, 0, 466, 269)
+2024-03-13 10:14:57 - Tracker initialized for bounding box: (2, 0, 466, 269)
+2024-03-13 10:14:58 - Tracker initialized for bounding box: (2, 0, 465, 269)
+2024-03-13 10:14:59 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:14:59 - Tracker initialized for bounding box: (2, 0, 470, 269)
+2024-03-13 10:15:00 - Warning: Tracker for object (0, 0, 471, 269) removed due to tracking failure
+2024-03-13 10:15:00 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:01 - Tracker initialized for bounding box: (3, 0, 465, 269)
+2024-03-13 10:15:19 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:20 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:21 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:23 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:24 - Tracker initialized for bounding box: (5, 0, 444, 269)
+2024-03-13 10:15:25 - Tracker initialized for bounding box: (3, 0, 460, 269)
+2024-03-13 10:15:26 - Tracker initialized for bounding box: (3, 0, 469, 269)
+2024-03-13 10:15:27 - Tracker initialized for bounding box: (4, 0, 470, 269)
+2024-03-13 10:15:29 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:30 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:31 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:15:33 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:15:34 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:15:35 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:15:36 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:15:38 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:15:39 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:40 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:42 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:43 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:44 - Tracker initialized for bounding box: (2, 0, 470, 269)
+2024-03-13 10:15:44 - Tracker initialized for bounding box: (2, 2, 469, 266)
+2024-03-13 10:15:46 - Tracker initialized for bounding box: (2, 0, 472, 269)
+2024-03-13 10:15:46 - Tracker initialized for bounding box: (3, 2, 470, 266)
+2024-03-13 10:15:47 - Tracker initialized for bounding box: (2, 0, 471, 269)
+2024-03-13 10:15:47 - Tracker initialized for bounding box: (2, 2, 470, 266)
+2024-03-13 10:15:48 - Tracker initialized for bounding box: (2, 1, 469, 268)
+2024-03-13 10:15:49 - Tracker initialized for bounding box: (3, 2, 466, 266)
+2024-03-13 10:15:50 - Warning: Tracker for object (8, 0, 471, 269) removed due to tracking failure
+2024-03-13 10:15:50 - Tracker initialized for bounding box: (2, 1, 471, 268)
+2024-03-13 10:15:50 - Tracker initialized for bounding box: (2, 2, 470, 266)
+2024-03-13 10:15:51 - Tracker initialized for bounding box: (2, 1, 470, 267)
+2024-03-13 10:15:51 - Tracker initialized for bounding box: (2, 2, 469, 266)
+2024-03-13 10:15:52 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:52 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:53 - Tracker initialized for bounding box: (2, 0, 472, 268)
+2024-03-13 10:15:53 - Tracker initialized for bounding box: (2, 2, 472, 266)
+2024-03-13 10:15:54 - Warning: Tracker for object (8, 0, 471, 268) removed due to tracking failure
+2024-03-13 10:15:54 - Tracker initialized for bounding box: (2, 1, 468, 268)
+2024-03-13 10:15:55 - Tracker initialized for bounding box: (2, 0, 469, 269)
+2024-03-13 10:15:55 - Tracker initialized for bounding box: (2, 2, 468, 266)
+2024-03-13 10:15:56 - Warning: Tracker for object (5, 1, 472, 268) removed due to tracking failure
+2024-03-13 10:15:56 - Tracker initialized for bounding box: (2, 0, 472, 269)
+2024-03-13 10:15:56 - Tracker initialized for bounding box: (2, 2, 471, 266)
+2024-03-13 10:15:57 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:57 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:59 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:15:59 - Tracker initialized for bounding box: (18, 4, 410, 265)
+2024-03-13 10:16:00 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:16:00 - Tracker initialized for bounding box: (13, 4, 420, 265)
+2024-03-13 10:16:01 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:16:01 - Tracker initialized for bounding box: (17, 4, 404, 264)
+2024-03-13 10:16:03 - Warning: Tracker for object (7, 0, 472, 269) removed due to tracking failure
+2024-03-13 10:16:19 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:16:19 - Tracker initialized for bounding box: (15, 4, 411, 264)
+2024-03-13 10:16:34 - Error: Error: Unable to open the DroidCam stream. Please check the URL.
+2024-03-13 10:27:38 - Warning: Motion detected!
+2024-03-13 10:27:40 - Warning: Motion detected!
+2024-03-13 10:27:45 - Warning: Motion detected!
+2024-03-13 10:27:45 - Warning: Motion detected!
+2024-03-13 10:27:45 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:27:46 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:27:46 - Tracker initialized for bounding box: (2, -2, 249, 269)
+2024-03-13 10:27:46 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:27:46 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:27:46 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:27:46 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:27:46 - Tracker initialized for bounding box: (3, 2, 471, 266)
+2024-03-13 10:27:46 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:27:46 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:27:46 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:27:46 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:27:47 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:27:47 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:27:47 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:27:47 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:27:47 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:27:47 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:27:47 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:27:47 - Tracker initialized for bounding box: (7, 2, 469, 266)
+2024-03-13 10:27:47 - Tracker initialized for bounding box: (11, 3, 465, 265)
+2024-03-13 10:27:48 - Tracker initialized for bounding box: (12, 4, 462, 264)
+2024-03-13 10:27:48 - Tracker initialized for bounding box: (149, 118, 221, 151)
+2024-03-13 10:27:48 - Tracker initialized for bounding box: (30, 6, 100, 218)
+2024-03-13 10:27:48 - Tracker initialized for bounding box: (108, 114, 98, 155)
+2024-03-13 10:27:48 - Tracker initialized for bounding box: (156, 126, 174, 142)
+2024-03-13 10:27:49 - Tracker initialized for bounding box: (31, 2, 443, 266)
+2024-03-13 10:27:49 - Tracker initialized for bounding box: (8, 2, 466, 266)
+2024-03-13 10:28:10 - Tracker initialized for bounding box: (4, 2, 470, 266)
+2024-03-13 10:28:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:28:10 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:28:10 - Tracker initialized for bounding box: (5, 1, 471, 267)
+2024-03-13 10:28:10 - Tracker initialized for bounding box: (6, 1, 470, 267)
+2024-03-13 10:28:11 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:28:11 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:28:11 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:28:12 - Tracker initialized for bounding box: (6, 1, 471, 267)
+2024-03-13 10:28:12 - Tracker initialized for bounding box: (5, 2, 471, 266)
+2024-03-13 10:28:12 - Tracker initialized for bounding box: (5, 1, 469, 267)
+2024-03-13 10:28:13 - Tracker initialized for bounding box: (4, 1, 470, 267)
+2024-03-13 10:28:13 - Tracker initialized for bounding box: (5, 2, 468, 266)
+2024-03-13 10:28:13 - Tracker initialized for bounding box: (4, 2, 469, 266)
+2024-03-13 10:28:14 - Tracker initialized for bounding box: (4, 2, 469, 266)
+2024-03-13 10:28:14 - Tracker initialized for bounding box: (3, 2, 471, 264)
+2024-03-13 10:28:15 - Tracker initialized for bounding box: (4, 4, 474, 260)
+2024-03-13 10:28:15 - Tracker initialized for bounding box: (4, 2, 470, 266)
+2024-03-13 10:28:15 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:28:16 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:28:16 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:28:17 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:28:17 - Tracker initialized for bounding box: (3, 2, 471, 266)
+2024-03-13 10:28:18 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:28:18 - Tracker initialized for bounding box: (4, 2, 470, 266)
+2024-03-13 10:28:19 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:28:19 - Tracker initialized for bounding box: (4, 2, 470, 266)
+2024-03-13 10:28:20 - Tracker initialized for bounding box: (4, 2, 470, 266)
+2024-03-13 10:28:21 - Error: Error reading frame from video capture.
+2024-03-13 10:30:47 - Error: Error: Unable to open the DroidCam stream. Please check the URL.
+2024-03-13 10:31:12 - Warning: Motion detected!
+2024-03-13 10:31:12 - Error: Error initializing tracker: bad allocation
+2024-03-13 10:31:12 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:12 - Tracker initialized for bounding box: (3, 0, 471, 269)
+2024-03-13 10:31:12 - Tracker initialized for bounding box: (4, 1, 469, 267)
+2024-03-13 10:31:12 - Tracker initialized for bounding box: (13, 0, 460, 268)
+2024-03-13 10:31:12 - Warning: Motion detected!
+2024-03-13 10:31:13 - Tracker initialized for bounding box: (19, 1, 454, 267)
+2024-03-13 10:31:13 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:13 - Tracker initialized for bounding box: (18, 4, 444, 266)
+2024-03-13 10:31:13 - Tracker initialized for bounding box: (40, 11, 422, 259)
+2024-03-13 10:31:13 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:13 - Tracker initialized for bounding box: (115, 28, 226, 239)
+2024-03-13 10:31:14 - Tracker initialized for bounding box: (88, 32, 314, 237)
+2024-03-13 10:31:14 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:14 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:14 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:14 - Tracker initialized for bounding box: (106, 37, 240, 229)
+2024-03-13 10:31:15 - Tracker initialized for bounding box: (73, 38, 330, 230)
+2024-03-13 10:31:15 - Tracker initialized for bounding box: (68, 38, 309, 229)
+2024-03-13 10:31:16 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:16 - Tracker initialized for bounding box: (34, 113, 99, 155)
+2024-03-13 10:31:16 - Tracker initialized for bounding box: (58, 42, 347, 224)
+2024-03-13 10:31:17 - Tracker initialized for bounding box: (60, 34, 353, 233)
+2024-03-13 10:31:17 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:18 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:18 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:18 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:19 - Tracker initialized for bounding box: (17, 5, 455, 262)
+2024-03-13 10:31:20 - Tracker initialized for bounding box: (95, 55, 123, 214)
+2024-03-13 10:31:20 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:20 - Tracker initialized for bounding box: (26, 210, 91, 59)
+2024-03-13 10:31:21 - Tracker initialized for bounding box: (107, 59, 101, 211)
+2024-03-13 10:31:21 - Tracker initialized for bounding box: (25, 192, 92, 76)
+2024-03-13 10:31:22 - Tracker initialized for bounding box: (105, 61, 104, 208)
+2024-03-13 10:31:22 - Tracker initialized for bounding box: (21, 37, 105, 228)
+2024-03-13 10:31:24 - Tracker initialized for bounding box: (5, 0, 443, 269)
+2024-03-13 10:31:25 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:26 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:27 - Warning: Tracker for object (8, 0, 471, 269) removed due to tracking failure
+2024-03-13 10:31:28 - Tracker initialized for bounding box: (5, 1, 464, 268)
+2024-03-13 10:31:28 - Tracker initialized for bounding box: (7, 0, 460, 268)
+2024-03-13 10:31:30 - Tracker initialized for bounding box: (9, 0, 465, 268)
+2024-03-13 10:31:31 - Tracker initialized for bounding box: (10, 0, 465, 269)
+2024-03-13 10:31:32 - Tracker initialized for bounding box: (3, 0, 437, 269)
+2024-03-13 10:31:32 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:33 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:34 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:34 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:34 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:35 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:35 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:35 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:36 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:37 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:37 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:38 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:38 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:39 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:39 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:31:40 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:40 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:41 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:41 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:42 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 10:31:43 - Tracker initialized for bounding box: (10, 1, 465, 267)
+2024-03-13 10:31:43 - Tracker initialized for bounding box: (11, 1, 464, 267)
+2024-03-13 10:31:44 - Tracker initialized for bounding box: (12, 1, 462, 267)
+2024-03-13 10:31:45 - Tracker initialized for bounding box: (11, 1, 464, 267)
+2024-03-13 10:31:45 - Tracker initialized for bounding box: (9, 1, 466, 267)
+2024-03-13 10:31:46 - Tracker initialized for bounding box: (10, 1, 465, 267)
+2024-03-13 10:31:47 - Tracker initialized for bounding box: (9, 1, 466, 267)
+2024-03-13 10:31:48 - Tracker initialized for bounding box: (8, 1, 468, 267)
+2024-03-13 10:31:48 - Tracker initialized for bounding box: (8, 1, 467, 267)
+2024-03-13 10:31:49 - Tracker initialized for bounding box: (8, 1, 467, 267)
+2024-03-13 10:31:50 - Tracker initialized for bounding box: (7, 1, 468, 267)
+2024-03-13 10:32:07 - Tracker initialized for bounding box: (9, 1, 466, 267)
+2024-03-13 10:32:08 - Tracker initialized for bounding box: (6, 1, 469, 267)
+2024-03-13 10:32:09 - Tracker initialized for bounding box: (7, 1, 468, 267)
+2024-03-13 10:32:10 - Tracker initialized for bounding box: (8, 1, 467, 267)
+2024-03-13 10:32:11 - Tracker initialized for bounding box: (8, 1, 467, 267)
+2024-03-13 10:32:12 - Tracker initialized for bounding box: (13, 1, 461, 267)
+2024-03-13 10:32:13 - Tracker initialized for bounding box: (14, 1, 460, 267)
+2024-03-13 10:32:14 - Tracker initialized for bounding box: (16, 1, 459, 269)
+2024-03-13 10:32:16 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:32:17 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:32:35 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 10:45:20 - Error: Error: Unable to open the DroidCam stream. Please check the URL.
+2024-03-13 11:10:27 - Error: Error: Unable to open the DroidCam stream. Please check the URL.
+2024-03-13 11:12:44 - Error: Error: Unable to open the DroidCam stream. Please check the URL.
+2024-03-13 11:16:32 - Warning: Motion detected!
+2024-03-13 11:16:32 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 11:16:32 - Tracker initialized for bounding box: (160, 0, 310, 269)
+2024-03-13 11:16:34 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 11:16:34 - Tracker initialized for bounding box: (129, 0, 329, 268)
+2024-03-13 11:16:34 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 11:16:35 - Tracker initialized for bounding box: (351, 0, 127, 104)
+2024-03-13 11:16:35 - Tracker initialized for bounding box: (109, 1, 331, 266)
+2024-03-13 11:16:35 - Tracker initialized for bounding box: (89, 0, 348, 267)
+2024-03-13 11:16:37 - Tracker initialized for bounding box: (81, 0, 349, 269)
+2024-03-13 11:16:38 - Tracker initialized for bounding box: (84, 1, 352, 267)
+2024-03-13 11:16:38 - Tracker initialized for bounding box: (66, 0, 369, 269)
+2024-03-13 11:16:39 - Tracker initialized for bounding box: (52, 0, 370, 269)
+2024-03-13 11:16:39 - Tracker initialized for bounding box: (59, 0, 364, 269)
+2024-03-13 11:16:40 - Tracker initialized for bounding box: (422, 0, 54, 60)
+2024-03-13 11:16:44 - Tracker initialized for bounding box: (423, 0, 54, 58)
+2024-03-13 11:16:44 - Tracker initialized for bounding box: (240, 3, 56, 69)
+2024-03-13 11:16:45 - Tracker initialized for bounding box: (248, 59, 145, 72)
+2024-03-13 11:16:46 - Tracker initialized for bounding box: (4, 6, 470, 263)
+2024-03-13 11:16:46 - Tracker initialized for bounding box: (295, 0, 161, 34)
+2024-03-13 11:16:47 - Tracker initialized for bounding box: (4, 5, 468, 264)
+2024-03-13 11:16:47 - Tracker initialized for bounding box: (297, 0, 160, 33)
+2024-03-13 11:16:49 - Tracker initialized for bounding box: (296, -1, 159, 34)
+2024-03-13 11:16:49 - Tracker initialized for bounding box: (4, 8, 466, 261)
+2024-03-13 11:16:49 - Tracker initialized for bounding box: (4, 8, 461, 261)
+2024-03-13 11:16:49 - Tracker initialized for bounding box: (295, 0, 159, 34)
+2024-03-13 11:16:51 - Tracker initialized for bounding box: (4, 6, 463, 263)
+2024-03-13 11:16:51 - Tracker initialized for bounding box: (293, 0, 156, 34)
+2024-03-13 11:16:51 - Tracker initialized for bounding box: (421, 2, 57, 36)
+2024-03-13 11:16:52 - Tracker initialized for bounding box: (0, 58, 134, 103)
+2024-03-13 11:16:53 - Tracker initialized for bounding box: (0, 62, 134, 103)
+2024-03-13 11:16:53 - Tracker initialized for bounding box: (277, 0, 169, 50)
+2024-03-13 11:17:11 - Tracker initialized for bounding box: (1, 60, 133, 104)
+2024-03-13 11:17:11 - Tracker initialized for bounding box: (284, 0, 160, 51)
+2024-03-13 11:17:17 - Tracker initialized for bounding box: (1, 58, 133, 106)
+2024-03-13 11:17:17 - Tracker initialized for bounding box: (286, -1, 159, 53)
+2024-03-13 11:18:14 - Tracker initialized for bounding box: (20, 35, 457, 234)
+2024-03-13 11:18:17 - Tracker initialized for bounding box: (37, 8, 416, 259)
+2024-03-13 11:18:19 - Tracker initialized for bounding box: (79, 9, 377, 257)
+2024-03-13 11:18:22 - Tracker initialized for bounding box: (42, 1, 291, 267)
+2024-03-13 11:18:40 - Tracker initialized for bounding box: (48, 1, 291, 268)
+2024-03-13 11:18:58 - Tracker initialized for bounding box: (51, 0, 279, 268)
+2024-03-13 11:19:16 - Tracker initialized for bounding box: (52, 0, 288, 268)
+2024-03-13 11:19:47 - Error: Error reading frame from video capture.
+2024-03-13 11:28:05 - Warning: Motion detected!
+2024-03-13 11:28:05 - Tracker initialized for bounding box: (18, 3, 410, 265)
+2024-03-13 11:28:06 - Tracker initialized for bounding box: (38, 2, 410, 267)
+2024-03-13 11:28:22 - Tracker initialized for bounding box: (36, 2, 412, 267)
+2024-03-13 11:28:31 - Tracker initialized for bounding box: (57, 4, 379, 264)
+2024-03-13 11:28:34 - Tracker initialized for bounding box: (13, 3, 456, 265)
+2024-03-13 11:28:36 - Tracker initialized for bounding box: (0, 0, 228, 266)
+2024-03-13 11:28:36 - Tracker initialized for bounding box: (37, 9, 384, 259)
+2024-03-13 11:28:41 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 11:28:42 - Tracker initialized for bounding box: (2, 10, 230, 256)
+2024-03-13 11:28:42 - Tracker initialized for bounding box: (75, 2, 175, 68)
+2024-03-13 11:28:42 - Tracker initialized for bounding box: (144, 10, 296, 258)
+2024-03-13 11:28:45 - Tracker initialized for bounding box: (202, 21, 250, 249)
+2024-03-13 11:28:45 - Tracker initialized for bounding box: (290, 0, 187, 84)
+2024-03-13 11:28:45 - Tracker initialized for bounding box: (1, 23, 242, 247)
+2024-03-13 11:28:53 - Tracker initialized for bounding box: (4, 15, 471, 252)
+2024-03-13 11:29:14 - Tracker initialized for bounding box: (47, 7, 408, 262)
+2024-03-13 11:29:31 - Error: Error: Unable to open the DroidCam stream. Please check the URL.
+2024-03-13 11:30:25 - Warning: Motion detected!
+2024-03-13 11:30:25 - Tracker initialized for bounding box: (238, 2, 238, 265)
+2024-03-13 11:30:31 - Warning: Motion detected!
+2024-03-13 11:30:31 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 11:30:31 - Tracker initialized for bounding box: (83, 0, 375, 269)
+2024-03-13 11:30:32 - Warning: Ignoring invalid bounding box for tracker initialization
+2024-03-13 11:30:33 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 11:30:34 - Tracker initialized for bounding box: (10, 0, 441, 268)
+2024-03-13 11:30:35 - Tracker initialized for bounding box: (10, 0, 451, 268)
+2024-03-13 11:30:36 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:81: error: (-215:Assertion failed) !negSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 11:30:37 - Error: Error initializing tracker: bad allocation
+2024-03-13 11:30:38 - Error: Error initializing tracker: bad allocation
+2024-03-13 11:30:38 - Error: Error initializing tracker: OpenCV(4.9.0) D:\a\opencv-python\opencv-python\opencv\modules\video\src\tracking\tracker_mil.cpp:80: error: (-215:Assertion failed) !posSamples.empty() in function 'cv::tracking::impl::TrackerMILImpl::init'
+
+2024-03-13 11:30:39 - Error: Error initializing tracker: bad allocation
+2024-03-13 11:30:41 - Tracker initialized for bounding box: (96, 2, 378, 266)
+2024-03-13 11:30:41 - Tracker initialized for bounding box: (117, 8, 247, 253)
+2024-03-13 11:30:42 - Tracker initialized for bounding box: (95, 0, 207, 256)
+2024-03-13 11:30:42 - Tracker initialized for bounding box: (77, 6, 190, 242)
+2024-03-13 11:30:42 - Tracker initialized for bounding box: (86, 3, 353, 261)
+2024-03-13 11:30:42 - Tracker initialized for bounding box: (75, 0, 102, 147)
+2024-03-13 11:30:46 - Tracker initialized for bounding box: (135, 2, 337, 267)
+2024-03-13 11:30:46 - Tracker initialized for bounding box: (208, 2, 272, 262)
+2024-03-13 11:30:49 - Tracker initialized for bounding box: (76, 8, 328, 259)
+2024-03-13 11:30:49 - Tracker initialized for bounding box: (108, 2, 357, 265)
+2024-03-13 11:30:54 - Tracker initialized for bounding box: (0, 163, 175, 106)
+2024-03-13 11:31:04 - Tracker initialized for bounding box: (0, 163, 177, 106)
+2024-03-13 11:31:06 - Tracker initialized for bounding box: (0, 163, 177, 106)
+2024-03-13 11:31:07 - Error: Error reading frame from video capture.
+2024-03-13 11:32:02 - Error: Error: Unable to open the DroidCam stream. Please check the URL.
+2024-03-13 11:38:44 - Error: Invalid username or password.
+2024-03-13 11:38:45 - Error: Invalid username or password.
